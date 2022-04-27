@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/scol_comm.pdf" title="my cv" height="800" width="800"></iframe>
-
+<iframe src="/files/scol_comm.pdf" title="my cv" style="height:75%;width:75%;"></iframe>
+<!--
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -59,3 +59,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
