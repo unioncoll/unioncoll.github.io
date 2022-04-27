@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<iframe src="/files/scol_comm.pdf" title="my cv" height="200" width="300"></iframe>
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
