@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "CV"
-permalink: http://unioncoll.github.io/files/scol_comm.pdf
-author_profile: false
+permalink: /cv/
+author_profile: true
 redirect_from:
   - /resume
 ---
