@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/scol_comm.pdf" type="application/pdf" style="width:100%" />
+<embed src="/files/scol_comm.pdf" type="application/pdf" style="max-width:100%" />
 <!--
 Education
 ======
