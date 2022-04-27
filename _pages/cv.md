@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/scol_comm.pdf" title="my cv" height="200" width="300"></iframe>
+<iframe src="/files/scol_comm.pdf" title="my cv" height="800" width="800"></iframe>
 
 Education
 ======
