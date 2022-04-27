@@ -1,7 +1,9 @@
 # main links links
 main:
   - title: "CV"
-    url: /files/scol_comm.pdf
+    url: /cv/
+    
+  # to open directly as a pdf, change cv url to /file folder/filename.xyz
   
   # - title: "Publications"
   #  url: /publications/
